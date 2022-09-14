@@ -1,0 +1,15 @@
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\bin\Debug\net6.0\Exercise.exe
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\bin\Debug\net6.0\Exercise.deps.json
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\bin\Debug\net6.0\Exercise.dll
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\bin\Debug\net6.0\Exercise.pdb
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.dll
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.pdb
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+D:\geekbrains\C_sharp_Semminary\Proverochnaya\Exercise\obj\Debug\net6.0\ref\Exercise.dll
